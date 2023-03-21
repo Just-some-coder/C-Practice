@@ -17,7 +17,7 @@
 //
 
 //}
-//Hate doing this
+//making changes.
 //Program 6
 //int main(){
 //    //(i)

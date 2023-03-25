@@ -3,6 +3,7 @@
 #include "malloc.h"
 #include "stdlib.h"
 
+//project
 //Program 5
 //int main(){
 //    float u,t,a,b,c,B,P;
